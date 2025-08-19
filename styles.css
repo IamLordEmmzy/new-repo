@@ -10,3 +10,9 @@ p {
   background-color: red;
   font-size: 2rem;
 }
+
+h2 {
+  font-size: 4rem;
+  color: purple;
+  letter-spacing: 1rem;
+}
